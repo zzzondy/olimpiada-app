@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OlimpiadaApp</string>
+    <string name="vk_projects">Проекты VK</string>
+    <string name="no_internet">Картинка нет интернета</string>
+    <string name="no_connection">Нет соединения</string>
+    <string name="no_connection_details">Проверьте ваше соединение и повторите попытку</string>
+    <string name="refresh">Обновить</string>
+    <string name="back_arrow">Картинка стрелка назад</string>
+</resources>

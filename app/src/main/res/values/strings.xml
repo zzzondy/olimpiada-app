@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OlimpiadaApp</string>
+    <string name="vk_projects">VK Projects</string>
+    <string name="no_internet">No internet image</string>
+    <string name="no_connection">No connection</string>
+    <string name="no_connection_details">Check your connection and try again</string>
+    <string name="refresh">Refresh</string>
+    <string name="back_arrow">Back arrow icon</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.OlimpiadaApp.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#FF1B1B1F</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_app_logo</item>
+        <item name="postSplashScreenTheme">@style/Theme.OlimpiadaApp</item>
+    </style>
+</resources>
